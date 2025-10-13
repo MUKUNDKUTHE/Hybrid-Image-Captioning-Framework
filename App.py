@@ -79,3 +79,4 @@ if uploaded_file:
                 merged = llm(prompt)[0]['generated_text']
                 st.subheader("Merged Caption")
                 st.info(merged)
+
