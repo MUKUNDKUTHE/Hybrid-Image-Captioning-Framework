@@ -1,0 +1,10 @@
+streamlit==1.50.0
+transformers==4.45.1
+torch==2.5.0
+evaluate==0.4.2
+Pillow==11.0.0
+accelerate==1.0.1
+sentencepiece==0.2.0
+protobuf==6.32.1
+numpy==2.3.3
+pandas==2.3.3
