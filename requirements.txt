@@ -3,5 +3,4 @@ transformers==4.45.1
 torch==2.5.0
 evaluate==0.4.2
 Pillow==11.0.0
-sentencepiece==0.2.0
 
